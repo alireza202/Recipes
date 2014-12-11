@@ -1,0 +1,5 @@
+Old/
+*.pkl
+.ipynb_checkpoints
+*.txt
+
