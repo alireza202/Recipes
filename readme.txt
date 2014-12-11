@@ -12,3 +12,7 @@ In order to use these scripts, you need the following packages:
 - sklearn (to use KMeans)
 - pandas
 - wordcloud (very cool wordcloud package)
+
+If you want to see the results, check out "04_spices.ipynb" here:
+
+http://nbviewer.ipython.org/github/alireza202/recipes/blob/master/04_spices.ipynb
